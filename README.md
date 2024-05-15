@@ -26,7 +26,6 @@
 ## Skills
 <br />
 
-
 <details>
 <summary>
   😘 I use it often.
@@ -34,7 +33,6 @@
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/python-3178C6?style=for-the-badge&logo=python&logoColor=white">
-</div>
 </details>
 
 <details>
@@ -46,9 +44,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
 </details>
-
 
 <br />
 <br />
