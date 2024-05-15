@@ -1,5 +1,5 @@
-## niraaah / Jeon Halin
-안녕하세요! 니라입니다 🐰 <br />
+## 🐰 niraaah / Jeon Halin
+안녕하세요! 니라입니다  <br />
 언제나 행복한 코딩을 지향하는 개발자 입니다.<br />
 단순한 코드를 넘어서, 이야기를 담은 서비스를 만들고자 합니다. <br />
 코드 라인 하나하나가 전하는 메세지와 그 뒤에 숨은 의미를 중시합니다. <br />
@@ -8,7 +8,7 @@
 <br />
 <br />
 <br />
-## My values
+## 🌿 My values
 🥳 E 신나지 않은 코딩은 이 세상에 존재하지 않습니다.<br />
 🫠 N '이 방법을 써보지 않고 에러를 놓아줄 순 없어...!'<br />
 😭 F 코드 한 줄 한 줄에서 묻어나오는 '감동'을 아십니까?<br />
@@ -19,18 +19,19 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=niraaah&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily)](https://git.io/streak-stats)
 <br />
 <br />
-## How i work
+## 📚 How i work
 저는 행복한 코딩을 하고 싶습니다. 코딩 하는 사람도, 그 코드들을 실감할 사람도 행복하길 바랍니다. <br />
 무계획성 삶을 지향하지만, 코딩과 공부와 과제에 있어서만큼은 그 어느 누구보다 J처럼 삽니다.
 <br />
 <br />
 <br />
-## What I love
+## 🥰 What i love
+- 
 <br />
 <br />
 <br />
 
-## Skills
+## 🌵 Skills
 <details>
 <summary>😘 I use it often.</summary>
   
