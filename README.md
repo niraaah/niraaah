@@ -25,11 +25,12 @@
 <br />
 ## Skills
 <br />
+
+
 <details>
 <summary>
   😘 I use it often.
 </summary>
-   <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/python-3178C6?style=for-the-badge&logo=python&logoColor=white">
@@ -40,7 +41,6 @@
 <summary>
   🙂‍↔️I've used it before.
 </summary>
-   <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/C/C++-2496ED?style=for-the-badge&logo=C&logoColor=pink">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
