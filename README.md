@@ -10,7 +10,6 @@
 😎 P 인생 계획은 없고요, 하던 공부 마저 하고 생각할게요.<br />
 <br />
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niraaah&hide=contribs,prs&show_icons=true&theme=highcontrast)
 [![GitHub Streak](https://streak-stats.demolab.com?user=niraaah&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <br />
 <br />
