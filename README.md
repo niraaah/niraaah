@@ -12,6 +12,8 @@
 <br />
 [![GitHub Streak](https://streak-stats.demolab.com?user=niraaah&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily)](https://git.io/streak-stats)
 <br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niraaah&hide=contribs,prs&show_icons=true&theme=highcontrast)
+<br />
 <br />
 ## How i work
 저는 행복한 코딩을 하고 싶습니다. 코딩 하는 사람도, 그 코드들을 실감할 사람도 행복하길 바랍니다. <br />
