@@ -24,8 +24,6 @@
 <br />
 <br />
 ## Skills
-<br />
-
 <details>
 <summary>
   😘 I use it often.
