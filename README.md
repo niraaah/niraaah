@@ -24,9 +24,10 @@
 <br />
 <br />
 ## Skills
+
 <details>
 <summary>
-  #### I use it often.
+  😘 I use it often.
 </summary>
    <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -37,7 +38,7 @@
 
 <details>
 <summary>
-  #### I've used it before.
+  🙂‍↔️I've used it before.
 </summary>
    <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/C/C++-2496ED?style=for-the-badge&logo=C&logoColor=pink">
