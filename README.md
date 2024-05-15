@@ -19,35 +19,38 @@
 <br />
 <br />
 ## What i love
-- 
 <br />
 <br />
 <br />
 ## Skills
----
 <details>
 <summary>
   😘 I use it often.
 </summary>
+  <p>
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/python-3178C6?style=for-the-badge&logo=python&logoColor=white">
+  </p>
 </details>
 
 <details>
 <summary>
   🙂‍↔️ I've used it before.
 </summary>
+  <p>
   <img src="https://img.shields.io/badge/C/C++-2496ED?style=for-the-badge&logo=C&logoColor=pink">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  </p>
 </details>
 
 <details>
 <summary>
   🤓 I want to learn.
 </summary>
+  <p>
   <img src="https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -63,7 +66,7 @@
   <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
   <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-
+  </p>
 </details>
 <br />
 <br />
