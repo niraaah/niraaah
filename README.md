@@ -23,7 +23,8 @@
 <br />
 <br />
 <br />
-##Skills
+## Skills
+---
 <details>
 <summary>
   😘 I use it often.
