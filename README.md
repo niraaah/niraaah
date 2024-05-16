@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary>🙂‍↔️ I've used it before.</summary>
+<summary>🤪 I've used it before.</summary>
   
   ![C/C++](https://img.shields.io/badge/C/C++-2496ED?style=for-the-badge&logo=C&logoColor=pink)
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
