@@ -49,11 +49,13 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   
+  
 </details>
 
 <details>
 <summary>🤓 I want to learn.</summary>
-  
+
+  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
   ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
